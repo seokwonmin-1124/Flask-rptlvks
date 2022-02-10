@@ -1,0 +1,47 @@
+main {
+    padding-top: 20px;
+    padding-left: calc(50% - 360px);
+    padding-right: calc(50% - 360px);
+    position: absolute;
+}
+
+h6 {
+    color: #6C757D;
+}
+
+h5 {
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
+
+main form textarea.form-control {
+    width: 600px;
+    position: absolute;
+    resize: none;
+}
+
+main form button {
+    width: 100px;
+    height: 85px;
+    margin-left: 610px;
+}
+
+ul.list-group {
+    width: 710;
+}
+
+.answer {
+    margin-bottom: 40px;
+}
+
+footer {
+    position: fixed;  
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 30px;
+    background: #F8F9FA;
+    color: #6C757D;
+    text-align: center;
+    line-height: 30px;
+}
